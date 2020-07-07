@@ -1,0 +1,1710 @@
+{
+  "nodes": [
+    [
+      -512,
+      {}
+    ],
+    [
+      -505,
+      {}
+    ],
+    [
+      -504,
+      {}
+    ],
+    [
+      -501,
+      {}
+    ],
+    [
+      -497,
+      {}
+    ],
+    [
+      -47088,
+      {}
+    ],
+    [
+      -494,
+      {}
+    ],
+    [
+      -493,
+      {}
+    ],
+    [
+      -490,
+      {}
+    ],
+    [
+      -488,
+      {}
+    ],
+    [
+      -487,
+      {}
+    ],
+    [
+      -486,
+      {}
+    ],
+    [
+      -483,
+      {}
+    ],
+    [
+      -11234,
+      {}
+    ],
+    [
+      -481,
+      {}
+    ],
+    [
+      -480,
+      {}
+    ],
+    [
+      -478,
+      {}
+    ],
+    [
+      -477,
+      {}
+    ],
+    [
+      -20445,
+      {}
+    ],
+    [
+      -471,
+      {}
+    ],
+    [
+      -12758,
+      {}
+    ],
+    [
+      -469,
+      {}
+    ],
+    [
+      -468,
+      {}
+    ],
+    [
+      -463,
+      {}
+    ],
+    [
+      -15822,
+      {}
+    ],
+    [
+      -462,
+      {}
+    ],
+    [
+      -460,
+      {}
+    ],
+    [
+      -458,
+      {}
+    ],
+    [
+      -454,
+      {}
+    ],
+    [
+      -453,
+      {}
+    ],
+    [
+      -451,
+      {}
+    ],
+    [
+      -450,
+      {}
+    ],
+    [
+      -449,
+      {}
+    ],
+    [
+      -448,
+      {}
+    ],
+    [
+      -447,
+      {}
+    ],
+    [
+      -15806,
+      {}
+    ],
+    [
+      -11710,
+      {}
+    ],
+    [
+      -444,
+      {}
+    ],
+    [
+      -445,
+      {}
+    ],
+    [
+      -446,
+      {}
+    ],
+    [
+      -440,
+      {}
+    ],
+    [
+      -438,
+      {}
+    ],
+    [
+      -437,
+      {}
+    ],
+    [
+      -436,
+      {}
+    ],
+    [
+      -435,
+      {}
+    ],
+    [
+      -428,
+      {}
+    ],
+    [
+      -427,
+      {}
+    ],
+    [
+      -421,
+      {}
+    ],
+    [
+      -36261,
+      {}
+    ],
+    [
+      -40354,
+      {}
+    ],
+    [
+      -16286,
+      {}
+    ],
+    [
+      -8578,
+      {}
+    ],
+    [
+      -17789,
+      {}
+    ],
+    [
+      -3437,
+      {}
+    ],
+    [
+      -3435,
+      {}
+    ],
+    [
+      -30556,
+      {}
+    ],
+    [
+      -15174,
+      {}
+    ],
+    [
+      -64313,
+      {}
+    ],
+    [
+      -16695,
+      {}
+    ],
+    [
+      -293,
+      {}
+    ],
+    [
+      -13582,
+      {}
+    ],
+    [
+      -3844,
+      {}
+    ],
+    [
+      -15617,
+      {}
+    ],
+    [
+      -3828,
+      {}
+    ],
+    [
+      -12526,
+      {}
+    ],
+    [
+      -12525,
+      {}
+    ],
+    [
+      -12524,
+      {}
+    ],
+    [
+      -31973,
+      {}
+    ],
+    [
+      -31972,
+      {}
+    ],
+    [
+      -26335,
+      {}
+    ],
+    [
+      -13527,
+      {}
+    ],
+    [
+      -3795,
+      {}
+    ],
+    [
+      -3265,
+      {}
+    ],
+    [
+      -45733,
+      {}
+    ],
+    [
+      -1691,
+      {}
+    ],
+    [
+      -38547,
+      {}
+    ],
+    [
+      -7820,
+      {}
+    ],
+    [
+      -12395,
+      {}
+    ],
+    [
+      -3167,
+      {}
+    ],
+    [
+      -28240,
+      {}
+    ],
+    [
+      -8775,
+      {}
+    ],
+    [
+      -14917,
+      {}
+    ],
+    [
+      -3140,
+      {}
+    ],
+    [
+      -23086,
+      {}
+    ],
+    [
+      -23085,
+      {}
+    ],
+    [
+      -23084,
+      {}
+    ],
+    [
+      -7718,
+      {}
+    ],
+    [
+      -28196,
+      {}
+    ],
+    [
+      -534,
+      {}
+    ],
+    [
+      -533,
+      {}
+    ],
+    [
+      -532,
+      {}
+    ],
+    [
+      -96275,
+      {}
+    ],
+    [
+      -529,
+      {}
+    ],
+    [
+      -528,
+      {}
+    ],
+    [
+      -523,
+      {}
+    ],
+    [
+      -522,
+      {}
+    ],
+    [
+      -520,
+      {}
+    ],
+    [
+      -518,
+      {}
+    ],
+    [
+      -516,
+      {}
+    ],
+    [
+      -515,
+      {}
+    ],
+    [
+      -514,
+      {}
+    ]
+  ],
+  "links": [
+    [
+      -512,
+      -514,
+      {
+        "mentor": -512,
+        "mentor_grady": 1960.0,
+        "protege": -514,
+        "StartDate": 1965.0,
+        "length": 5,
+        "protege_grad_univ": -1094,
+        "relation": 1
+      }
+    ],
+    [
+      -512,
+      -28240,
+      {
+        "mentor": -512,
+        "mentor_grady": 1960.0,
+        "protege": -28240,
+        "StartDate": 1988.0,
+        "length": 5,
+        "protege_grad_univ": -1094,
+        "relation": 1
+      }
+    ],
+    [
+      -505,
+      -512,
+      {
+        "mentor": -505,
+        "mentor_grady": 1948.0,
+        "protege": -512,
+        "StartDate": 1955.0,
+        "length": 5,
+        "protege_grad_univ": -914,
+        "relation": 1
+      }
+    ],
+    [
+      -504,
+      -15617,
+      {
+        "mentor": -504,
+        "mentor_grady": 1948.0,
+        "protege": -15617,
+        "StartDate": 1953.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -504,
+      -7718,
+      {
+        "mentor": -504,
+        "mentor_grady": 1948.0,
+        "protege": -7718,
+        "StartDate": 1954.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -504,
+      -15806,
+      {
+        "mentor": -504,
+        "mentor_grady": 1948.0,
+        "protege": -15806,
+        "StartDate": 1963.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -504,
+      -16286,
+      {
+        "mentor": -504,
+        "mentor_grady": 1948.0,
+        "protege": -16286,
+        "StartDate": 1965.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -497,
+      -11710,
+      {
+        "mentor": -497,
+        "mentor_grady": 1956.0,
+        "protege": -11710,
+        "StartDate": 1967.0,
+        "length": 5,
+        "protege_grad_univ": -1094,
+        "relation": 1
+      }
+    ],
+    [
+      -497,
+      -28196,
+      {
+        "mentor": -497,
+        "mentor_grady": 1956.0,
+        "protege": -28196,
+        "StartDate": 1980.0,
+        "length": 5,
+        "protege_grad_univ": -1094,
+        "relation": 1
+      }
+    ],
+    [
+      -497,
+      -14917,
+      {
+        "mentor": -497,
+        "mentor_grady": 1956.0,
+        "protege": -14917,
+        "StartDate": 1992.0,
+        "length": 5,
+        "protege_grad_univ": -1094,
+        "relation": 1
+      }
+    ],
+    [
+      -494,
+      -15174,
+      {
+        "mentor": -494,
+        "mentor_grady": 1951.0,
+        "protege": -15174,
+        "StartDate": 1961.0,
+        "length": 5,
+        "protege_grad_univ": -1094,
+        "relation": 1
+      }
+    ],
+    [
+      -494,
+      -23086,
+      {
+        "mentor": -494,
+        "mentor_grady": 1951.0,
+        "protege": -23086,
+        "StartDate": 1967.0,
+        "length": 5,
+        "protege_grad_univ": -1014,
+        "relation": 1
+      }
+    ],
+    [
+      -494,
+      -23084,
+      {
+        "mentor": -494,
+        "mentor_grady": 1951.0,
+        "protege": -23084,
+        "StartDate": 1968.0,
+        "length": 5,
+        "protege_grad_univ": -1014,
+        "relation": 1
+      }
+    ],
+    [
+      -494,
+      -23085,
+      {
+        "mentor": -494,
+        "mentor_grady": 1951.0,
+        "protege": -23085,
+        "StartDate": 1969.0,
+        "length": 5,
+        "protege_grad_univ": -1014,
+        "relation": 1
+      }
+    ],
+    [
+      -493,
+      -494,
+      {
+        "mentor": -493,
+        "mentor_grady": 1940.0,
+        "protege": -494,
+        "StartDate": 1946.0,
+        "length": 5,
+        "protege_grad_univ": -866,
+        "relation": 1
+      }
+    ],
+    [
+      -493,
+      -31972,
+      {
+        "mentor": -493,
+        "mentor_grady": 1940.0,
+        "protege": -31972,
+        "StartDate": 1949.0,
+        "length": 5,
+        "protege_grad_univ": -866,
+        "relation": 1
+      }
+    ],
+    [
+      -493,
+      -31973,
+      {
+        "mentor": -493,
+        "mentor_grady": 1940.0,
+        "protege": -31973,
+        "StartDate": 1950.0,
+        "length": 5,
+        "protege_grad_univ": -866,
+        "relation": 1
+      }
+    ],
+    [
+      -493,
+      -497,
+      {
+        "mentor": -493,
+        "mentor_grady": 1940.0,
+        "protege": -497,
+        "StartDate": 1951.0,
+        "length": 5,
+        "protege_grad_univ": -866,
+        "relation": 1
+      }
+    ],
+    [
+      -487,
+      -38547,
+      {
+        "mentor": -487,
+        "mentor_grady": 1966.0,
+        "protege": -38547,
+        "StartDate": 1972.0,
+        "length": 5,
+        "protege_grad_univ": -389,
+        "relation": 1
+      }
+    ],
+    [
+      -483,
+      -8775,
+      {
+        "mentor": -483,
+        "mentor_grady": 1964.0,
+        "protege": -8775,
+        "StartDate": 1972.0,
+        "length": 5,
+        "protege_grad_univ": -1043,
+        "relation": 1
+      }
+    ],
+    [
+      -481,
+      -3435,
+      {
+        "mentor": -481,
+        "mentor_grady": 1967.0,
+        "protege": -3435,
+        "StartDate": 1976.0,
+        "length": 5,
+        "protege_grad_univ": -871,
+        "relation": 1
+      }
+    ],
+    [
+      -481,
+      -3437,
+      {
+        "mentor": -481,
+        "mentor_grady": 1967.0,
+        "protege": -3437,
+        "StartDate": 1977.0,
+        "length": 5,
+        "protege_grad_univ": -871,
+        "relation": 1
+      }
+    ],
+    [
+      -480,
+      -8578,
+      {
+        "mentor": -480,
+        "mentor_grady": 1955.0,
+        "protege": -8578,
+        "StartDate": 1959.0,
+        "length": 5,
+        "protege_grad_univ": -670,
+        "relation": 1
+      }
+    ],
+    [
+      -480,
+      -13527,
+      {
+        "mentor": -480,
+        "mentor_grady": 1955.0,
+        "protege": -13527,
+        "StartDate": 1959.0,
+        "length": 5,
+        "protege_grad_univ": -670,
+        "relation": 1
+      }
+    ],
+    [
+      -480,
+      -481,
+      {
+        "mentor": -480,
+        "mentor_grady": 1955.0,
+        "protege": -481,
+        "StartDate": 1962.0,
+        "length": 5,
+        "protege_grad_univ": -670,
+        "relation": 1
+      }
+    ],
+    [
+      -477,
+      -17789,
+      {
+        "mentor": -477,
+        "mentor_grady": 1968.0,
+        "protege": -17789,
+        "StartDate": 1984.0,
+        "length": 5,
+        "protege_grad_univ": -1031,
+        "relation": 1
+      }
+    ],
+    [
+      -471,
+      -11234,
+      {
+        "mentor": -471,
+        "mentor_grady": 1969.0,
+        "protege": -11234,
+        "StartDate": 1969.0,
+        "length": 5,
+        "protege_grad_univ": -308,
+        "relation": 1
+      }
+    ],
+    [
+      -469,
+      -64313,
+      {
+        "mentor": -469,
+        "mentor_grady": 1962.0,
+        "protege": -64313,
+        "StartDate": 1967.0,
+        "length": 5,
+        "protege_grad_univ": -1105,
+        "relation": 1
+      }
+    ],
+    [
+      -468,
+      -469,
+      {
+        "mentor": -468,
+        "mentor_grady": 1953.0,
+        "protege": -469,
+        "StartDate": 1957.0,
+        "length": 5,
+        "protege_grad_univ": -1004,
+        "relation": 1
+      }
+    ],
+    [
+      -468,
+      -477,
+      {
+        "mentor": -468,
+        "mentor_grady": 1953.0,
+        "protege": -477,
+        "StartDate": 1963.0,
+        "length": 5,
+        "protege_grad_univ": -1004,
+        "relation": 1
+      }
+    ],
+    [
+      -468,
+      -471,
+      {
+        "mentor": -468,
+        "mentor_grady": 1953.0,
+        "protege": -471,
+        "StartDate": 1964.0,
+        "length": 5,
+        "protege_grad_univ": -1004,
+        "relation": 1
+      }
+    ],
+    [
+      -468,
+      -478,
+      {
+        "mentor": -468,
+        "mentor_grady": 1953.0,
+        "protege": -478,
+        "StartDate": 1964.0,
+        "length": 5,
+        "protege_grad_univ": -1004,
+        "relation": 1
+      }
+    ],
+    [
+      -468,
+      -12524,
+      {
+        "mentor": -468,
+        "mentor_grady": 1953.0,
+        "protege": -12524,
+        "StartDate": 1968.0,
+        "length": 5,
+        "protege_grad_univ": -1004,
+        "relation": 1
+      }
+    ],
+    [
+      -468,
+      -12525,
+      {
+        "mentor": -468,
+        "mentor_grady": 1953.0,
+        "protege": -12525,
+        "StartDate": 1979.0,
+        "length": 5,
+        "protege_grad_univ": -1004,
+        "relation": 1
+      }
+    ],
+    [
+      -468,
+      -12526,
+      {
+        "mentor": -468,
+        "mentor_grady": 1953.0,
+        "protege": -12526,
+        "StartDate": 1985.0,
+        "length": 5,
+        "protege_grad_univ": -1004,
+        "relation": 1
+      }
+    ],
+    [
+      -463,
+      -30556,
+      {
+        "mentor": -463,
+        "mentor_grady": 1969.0,
+        "protege": -30556,
+        "StartDate": 1969.0,
+        "length": 5,
+        "protege_grad_univ": -703,
+        "relation": 1
+      }
+    ],
+    [
+      -463,
+      -40354,
+      {
+        "mentor": -463,
+        "mentor_grady": 1969.0,
+        "protege": -40354,
+        "StartDate": 1986.0,
+        "length": 5,
+        "protege_grad_univ": -703,
+        "relation": 1
+      }
+    ],
+    [
+      -463,
+      -47088,
+      {
+        "mentor": -463,
+        "mentor_grady": 1969.0,
+        "protege": -47088,
+        "StartDate": 1995.0,
+        "length": 5,
+        "protege_grad_univ": -703,
+        "relation": 1
+      }
+    ],
+    [
+      -462,
+      -463,
+      {
+        "mentor": -462,
+        "mentor_grady": 1966.0,
+        "protege": -463,
+        "StartDate": 1964.0,
+        "length": 5,
+        "protege_grad_univ": -1064,
+        "relation": 1
+      }
+    ],
+    [
+      -462,
+      -3828,
+      {
+        "mentor": -462,
+        "mentor_grady": 1966.0,
+        "protege": -3828,
+        "StartDate": 1966.0,
+        "length": 5,
+        "protege_grad_univ": -1064,
+        "relation": 1
+      }
+    ],
+    [
+      -462,
+      -3844,
+      {
+        "mentor": -462,
+        "mentor_grady": 1966.0,
+        "protege": -3844,
+        "StartDate": 1969.0,
+        "length": 5,
+        "protege_grad_univ": -1064,
+        "relation": 1
+      }
+    ],
+    [
+      -453,
+      -454,
+      {
+        "mentor": -453,
+        "mentor_grady": 1967.0,
+        "protege": -454,
+        "StartDate": 1966.0,
+        "length": 5,
+        "protege_grad_univ": -665,
+        "relation": 1
+      }
+    ],
+    [
+      -453,
+      -3265,
+      {
+        "mentor": -453,
+        "mentor_grady": 1967.0,
+        "protege": -3265,
+        "StartDate": 1983.0,
+        "length": 5,
+        "protege_grad_univ": -665,
+        "relation": 1
+      }
+    ],
+    [
+      -453,
+      -96275,
+      {
+        "mentor": -453,
+        "mentor_grady": 1967.0,
+        "protege": -96275,
+        "StartDate": 1991.0,
+        "length": 5,
+        "protege_grad_univ": -665,
+        "relation": 1
+      }
+    ],
+    [
+      -451,
+      -3795,
+      {
+        "mentor": -451,
+        "mentor_grady": 1963.0,
+        "protege": -3795,
+        "StartDate": 1960.0,
+        "length": 5,
+        "protege_grad_univ": -1064,
+        "relation": 1
+      }
+    ],
+    [
+      -451,
+      -453,
+      {
+        "mentor": -451,
+        "mentor_grady": 1963.0,
+        "protege": -453,
+        "StartDate": 1962.0,
+        "length": 5,
+        "protege_grad_univ": -1064,
+        "relation": 1
+      }
+    ],
+    [
+      -444,
+      -445,
+      {
+        "mentor": -444,
+        "mentor_grady": 1958.0,
+        "protege": -445,
+        "StartDate": 1958.0,
+        "length": 5,
+        "protege_grad_univ": -914,
+        "relation": 1
+      }
+    ],
+    [
+      -444,
+      -449,
+      {
+        "mentor": -444,
+        "mentor_grady": 1958.0,
+        "protege": -449,
+        "StartDate": 1958.0,
+        "length": 5,
+        "protege_grad_univ": -914,
+        "relation": 1
+      }
+    ],
+    [
+      -444,
+      -450,
+      {
+        "mentor": -444,
+        "mentor_grady": 1958.0,
+        "protege": -450,
+        "StartDate": 1961.0,
+        "length": 5,
+        "protege_grad_univ": -670,
+        "relation": 1
+      }
+    ],
+    [
+      -445,
+      -446,
+      {
+        "mentor": -445,
+        "mentor_grady": 1963.0,
+        "protege": -446,
+        "StartDate": 1962.0,
+        "length": 5,
+        "protege_grad_univ": -943,
+        "relation": 1
+      }
+    ],
+    [
+      -445,
+      -447,
+      {
+        "mentor": -445,
+        "mentor_grady": 1963.0,
+        "protege": -447,
+        "StartDate": 1963.0,
+        "length": 5,
+        "protege_grad_univ": -943,
+        "relation": 1
+      }
+    ],
+    [
+      -445,
+      -448,
+      {
+        "mentor": -445,
+        "mentor_grady": 1963.0,
+        "protege": -448,
+        "StartDate": 1964.0,
+        "length": 5,
+        "protege_grad_univ": -943,
+        "relation": 1
+      }
+    ],
+    [
+      -440,
+      -444,
+      {
+        "mentor": -440,
+        "mentor_grady": 1953.0,
+        "protege": -444,
+        "StartDate": 1953.0,
+        "length": 5,
+        "protege_grad_univ": -665,
+        "relation": 1
+      }
+    ],
+    [
+      -440,
+      -3140,
+      {
+        "mentor": -440,
+        "mentor_grady": 1953.0,
+        "protege": -3140,
+        "StartDate": 1953.0,
+        "length": 5,
+        "protege_grad_univ": -665,
+        "relation": 1
+      }
+    ],
+    [
+      -440,
+      -451,
+      {
+        "mentor": -440,
+        "mentor_grady": 1953.0,
+        "protege": -451,
+        "StartDate": 1958.0,
+        "length": 5,
+        "protege_grad_univ": -665,
+        "relation": 1
+      }
+    ],
+    [
+      -440,
+      -458,
+      {
+        "mentor": -440,
+        "mentor_grady": 1953.0,
+        "protege": -458,
+        "StartDate": 1960.0,
+        "length": 5,
+        "protege_grad_univ": -665,
+        "relation": 1
+      }
+    ],
+    [
+      -440,
+      -460,
+      {
+        "mentor": -440,
+        "mentor_grady": 1953.0,
+        "protege": -460,
+        "StartDate": 1961.0,
+        "length": 5,
+        "protege_grad_univ": -665,
+        "relation": 1
+      }
+    ],
+    [
+      -440,
+      -462,
+      {
+        "mentor": -440,
+        "mentor_grady": 1953.0,
+        "protege": -462,
+        "StartDate": 1961.0,
+        "length": 5,
+        "protege_grad_univ": -665,
+        "relation": 1
+      }
+    ],
+    [
+      -440,
+      -3167,
+      {
+        "mentor": -440,
+        "mentor_grady": 1953.0,
+        "protege": -3167,
+        "StartDate": 1961.0,
+        "length": 5,
+        "protege_grad_univ": -665,
+        "relation": 1
+      }
+    ],
+    [
+      -437,
+      -438,
+      {
+        "mentor": -437,
+        "mentor_grady": 1953.0,
+        "protege": -438,
+        "StartDate": 1964.0,
+        "length": 5,
+        "protege_grad_univ": -967,
+        "relation": 1
+      }
+    ],
+    [
+      -435,
+      -436,
+      {
+        "mentor": -435,
+        "mentor_grady": 1952.0,
+        "protege": -436,
+        "StartDate": 1959.0,
+        "length": 5,
+        "protege_grad_univ": -910,
+        "relation": 1
+      }
+    ],
+    [
+      -427,
+      -428,
+      {
+        "mentor": -427,
+        "mentor_grady": 1939.0,
+        "protege": -428,
+        "StartDate": 1943.0,
+        "length": 5,
+        "protege_grad_univ": -1014,
+        "relation": 1
+      }
+    ],
+    [
+      -427,
+      -435,
+      {
+        "mentor": -427,
+        "mentor_grady": 1939.0,
+        "protege": -435,
+        "StartDate": 1947.0,
+        "length": 5,
+        "protege_grad_univ": -703,
+        "relation": 1
+      }
+    ],
+    [
+      -427,
+      -36261,
+      {
+        "mentor": -427,
+        "mentor_grady": 1939.0,
+        "protege": -36261,
+        "StartDate": 1947.0,
+        "length": 5,
+        "protege_grad_univ": -703,
+        "relation": 1
+      }
+    ],
+    [
+      -427,
+      -437,
+      {
+        "mentor": -427,
+        "mentor_grady": 1939.0,
+        "protege": -437,
+        "StartDate": 1948.0,
+        "length": 5,
+        "protege_grad_univ": -703,
+        "relation": 1
+      }
+    ],
+    [
+      -427,
+      -440,
+      {
+        "mentor": -427,
+        "mentor_grady": 1939.0,
+        "protege": -440,
+        "StartDate": 1948.0,
+        "length": 5,
+        "protege_grad_univ": -703,
+        "relation": 1
+      }
+    ],
+    [
+      -427,
+      -468,
+      {
+        "mentor": -427,
+        "mentor_grady": 1939.0,
+        "protege": -468,
+        "StartDate": 1948.0,
+        "length": 5,
+        "protege_grad_univ": -703,
+        "relation": 1
+      }
+    ],
+    [
+      -427,
+      -480,
+      {
+        "mentor": -427,
+        "mentor_grady": 1939.0,
+        "protege": -480,
+        "StartDate": 1950.0,
+        "length": 5,
+        "protege_grad_univ": -703,
+        "relation": 1
+      }
+    ],
+    [
+      -427,
+      -483,
+      {
+        "mentor": -427,
+        "mentor_grady": 1939.0,
+        "protege": -483,
+        "StartDate": 1959.0,
+        "length": 5,
+        "protege_grad_univ": -910,
+        "relation": 1
+      }
+    ],
+    [
+      -427,
+      -486,
+      {
+        "mentor": -427,
+        "mentor_grady": 1939.0,
+        "protege": -486,
+        "StartDate": 1960.0,
+        "length": 5,
+        "protege_grad_univ": -910,
+        "relation": 1
+      }
+    ],
+    [
+      -427,
+      -487,
+      {
+        "mentor": -427,
+        "mentor_grady": 1939.0,
+        "protege": -487,
+        "StartDate": 1961.0,
+        "length": 5,
+        "protege_grad_univ": -910,
+        "relation": 1
+      }
+    ],
+    [
+      -427,
+      -488,
+      {
+        "mentor": -427,
+        "mentor_grady": 1939.0,
+        "protege": -488,
+        "StartDate": 1961.0,
+        "length": 5,
+        "protege_grad_univ": -910,
+        "relation": 1
+      }
+    ],
+    [
+      -427,
+      -490,
+      {
+        "mentor": -427,
+        "mentor_grady": 1939.0,
+        "protege": -490,
+        "StartDate": 1965.0,
+        "length": 5,
+        "protege_grad_univ": -910,
+        "relation": 1
+      }
+    ],
+    [
+      -427,
+      -1691,
+      {
+        "mentor": -427,
+        "mentor_grady": 1939.0,
+        "protege": -1691,
+        "StartDate": 1965.0,
+        "length": 5,
+        "protege_grad_univ": -910,
+        "relation": 1
+      }
+    ],
+    [
+      -16695,
+      -446,
+      {
+        "mentor": -16695,
+        "mentor_grady": 1959.0,
+        "protege": -446,
+        "StartDate": 1962.0,
+        "length": 5,
+        "protege_grad_univ": -943,
+        "relation": 1
+      }
+    ],
+    [
+      -293,
+      -421,
+      {
+        "mentor": -293,
+        "mentor_grady": 1927.0,
+        "protege": -421,
+        "StartDate": 1933.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -293,
+      -427,
+      {
+        "mentor": -293,
+        "mentor_grady": 1927.0,
+        "protege": -427,
+        "StartDate": 1934.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -293,
+      -493,
+      {
+        "mentor": -293,
+        "mentor_grady": 1927.0,
+        "protege": -493,
+        "StartDate": 1935.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -293,
+      -501,
+      {
+        "mentor": -293,
+        "mentor_grady": 1927.0,
+        "protege": -501,
+        "StartDate": 1937.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -293,
+      -504,
+      {
+        "mentor": -293,
+        "mentor_grady": 1927.0,
+        "protege": -504,
+        "StartDate": 1943.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -293,
+      -505,
+      {
+        "mentor": -293,
+        "mentor_grady": 1927.0,
+        "protege": -505,
+        "StartDate": 1943.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -293,
+      -515,
+      {
+        "mentor": -293,
+        "mentor_grady": 1927.0,
+        "protege": -515,
+        "StartDate": 1948.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -293,
+      -520,
+      {
+        "mentor": -293,
+        "mentor_grady": 1927.0,
+        "protege": -520,
+        "StartDate": 1948.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -293,
+      -522,
+      {
+        "mentor": -293,
+        "mentor_grady": 1927.0,
+        "protege": -522,
+        "StartDate": 1949.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -293,
+      -528,
+      {
+        "mentor": -293,
+        "mentor_grady": 1927.0,
+        "protege": -528,
+        "StartDate": 1956.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -293,
+      -532,
+      {
+        "mentor": -293,
+        "mentor_grady": 1927.0,
+        "protege": -532,
+        "StartDate": 1959.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -293,
+      -533,
+      {
+        "mentor": -293,
+        "mentor_grady": 1927.0,
+        "protege": -533,
+        "StartDate": 1960.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -293,
+      -534,
+      {
+        "mentor": -293,
+        "mentor_grady": 1927.0,
+        "protege": -534,
+        "StartDate": 1961.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -293,
+      -15822,
+      {
+        "mentor": -293,
+        "mentor_grady": 1927.0,
+        "protege": -15822,
+        "StartDate": 1968.0,
+        "length": 5,
+        "protege_grad_univ": -1087,
+        "relation": 1
+      }
+    ],
+    [
+      -26335,
+      -30556,
+      {
+        "mentor": -26335,
+        "mentor_grady": 1958.0,
+        "protege": -30556,
+        "StartDate": 1969.0,
+        "length": 5,
+        "protege_grad_univ": -703,
+        "relation": 1
+      }
+    ],
+    [
+      -7820,
+      -14917,
+      {
+        "mentor": -7820,
+        "mentor_grady": 1977.0,
+        "protege": -14917,
+        "StartDate": 1992.0,
+        "length": 5,
+        "protege_grad_univ": -1094,
+        "relation": 1
+      }
+    ],
+    [
+      -528,
+      -529,
+      {
+        "mentor": -528,
+        "mentor_grady": 1961.0,
+        "protege": -529,
+        "StartDate": 1963.0,
+        "length": 5,
+        "protege_grad_univ": -971,
+        "relation": 1
+      }
+    ],
+    [
+      -522,
+      -523,
+      {
+        "mentor": -522,
+        "mentor_grady": 1954.0,
+        "protege": -523,
+        "StartDate": 1965.0,
+        "length": 5,
+        "protege_grad_univ": -456,
+        "relation": 1
+      }
+    ],
+    [
+      -522,
+      -12395,
+      {
+        "mentor": -522,
+        "mentor_grady": 1954.0,
+        "protege": -12395,
+        "StartDate": 1968.0,
+        "length": 5,
+        "protege_grad_univ": -456,
+        "relation": 1
+      }
+    ],
+    [
+      -522,
+      -12758,
+      {
+        "mentor": -522,
+        "mentor_grady": 1954.0,
+        "protege": -12758,
+        "StartDate": 1968.0,
+        "length": 5,
+        "protege_grad_univ": -456,
+        "relation": 1
+      }
+    ],
+    [
+      -522,
+      -13582,
+      {
+        "mentor": -522,
+        "mentor_grady": 1954.0,
+        "protege": -13582,
+        "StartDate": 1981.0,
+        "length": 5,
+        "protege_grad_univ": -456,
+        "relation": 1
+      }
+    ],
+    [
+      -522,
+      -45733,
+      {
+        "mentor": -522,
+        "mentor_grady": 1954.0,
+        "protege": -45733,
+        "StartDate": 1987.0,
+        "length": 5,
+        "protege_grad_univ": -1066,
+        "relation": 1
+      }
+    ],
+    [
+      -516,
+      -20445,
+      {
+        "mentor": -516,
+        "mentor_grady": 1965.0,
+        "protege": -20445,
+        "StartDate": 1991.0,
+        "length": 5,
+        "protege_grad_univ": -173,
+        "relation": 1
+      }
+    ],
+    [
+      -515,
+      -516,
+      {
+        "mentor": -515,
+        "mentor_grady": 1953.0,
+        "protege": -516,
+        "StartDate": 1960.0,
+        "length": 5,
+        "protege_grad_univ": -173,
+        "relation": 1
+      }
+    ],
+    [
+      -515,
+      -518,
+      {
+        "mentor": -515,
+        "mentor_grady": 1953.0,
+        "protege": -518,
+        "StartDate": 1962.0,
+        "length": 5,
+        "protege_grad_univ": -173,
+        "relation": 1
+      }
+    ]
+  ]
+}
